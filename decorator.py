@@ -49,7 +49,7 @@ def xuanz(name,age):
     print("_______",name,age)
 xuanz("xiaoli","18")
 
-
+#地方京东客服进度款
 @decorate
 def students(student_list,ckazz = "3年级"):
     for stu in student_list:
